@@ -3,7 +3,8 @@ Students rank 7 topics from their favorite to least favorite via Google Form. Th
 
 Example:
 
-```Joi Visconti has been assigned to their number 1 choice: Big Data & The Cloud
+```
+Joi Visconti has been assigned to their number 1 choice: Big Data & The Cloud
 Mervin Jeans has been assigned to their number 1 choice: Piracy and Open Source
 Kaitlyn Mcquaid has been assigned to their number 1 choice: Artifical Intelligence (AI)
 Hiedi Dickerman has been assigned to their number 1 choice: Social Media
@@ -58,4 +59,5 @@ Group 5: Robotics & Cybernetics
 Christeen Canto
 Jarred Hagins
 Mistie Pineo
-Joi Visconti```
+Joi Visconti
+```
