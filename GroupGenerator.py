@@ -50,7 +50,7 @@ def generateGroups():
         small_groups = []
         found_small_group = False
         for k, v in groups.items():
-            if len(v) == 1:
+            if len(v) == 0: #depending on class size, some groups may not be used so we skip over them
                 continue
             if len(v) < 3: #check if there are groups with less than 3 members
                 small_groups.append(k)
